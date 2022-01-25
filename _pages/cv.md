@@ -8,4 +8,4 @@ redirect_from:
 ---
 ### Resume/CV
 
-Download my latest CV at https://tommarvoloriddle.github.io/saaketh.github.io/files/Saaketh_CV-2021.pdf
+Download my latest CV [here](https://tommarvoloriddle.github.io/saaketh.github.io/files/Saaketh_CV-2021.pdf)
