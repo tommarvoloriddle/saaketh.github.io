@@ -2,7 +2,7 @@
 title: "Leakage Detection in Water Distribution Systems using Neural Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Used data from the local municipality to train a neural network for predicting leakages in the distribution systems. Applied this model to our college water distribution system.'
 date: 2019-04-04
 venue: "Bachelor's Thesis"
 ---
