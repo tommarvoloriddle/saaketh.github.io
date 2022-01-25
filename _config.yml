@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saaketh Koundinya | Computer Vision Research Fellow"
+title                    : "Saaketh Koundinya | Computer Vision Researcher"
 title_separator          : "-"
 name                     : &name "Saaketh Koundinya"
 description              : &description "personal description"
@@ -80,11 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saaketh"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Saaketh Koundinya"
+  avatar           : "1C6A1473.jpg"
+  bio              : "Research Fellow @ SAP Labs - Computer Vision 
+                      Full-stack Developer @ SAP Labs
+                      Competetive Coding | Problem Solving
+                      "
   location         : "Location"
-  employer         :
+  employer         : "SAP Labs"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tommarvoloriddle"
   google_plus      :
   keybase          :
   instagram        :
