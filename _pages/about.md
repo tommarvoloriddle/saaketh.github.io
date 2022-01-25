@@ -1,6 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-
-# ``Greetings, Welcome to my profile``
 
 My name is Saaketh Koundinya and I am passionate about computer vision, deep learning, competetive programming and problem solving. I am currently working as a part-time researcher in Computer Vision and also as a full-time full-stack developer at SAP Labs, India. 
 
