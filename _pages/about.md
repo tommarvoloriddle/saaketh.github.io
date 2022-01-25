@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Saaketh Koundinya and I am passionate about computer vision, deep learning, competetive programming and problem solving. I am currently working as a part-time researcher in Computer Vision and also as a full-time full-stack developer at SAP Labs, India. 
 
-### Most of my work with SAP Labs is available at https://github.wdf.sap.corp/i516344.
+### Most of my work with SAP Labs is available at [https://github.wdf.sap.corp/i516344.](https://github.wdf.sap.corp/i516344)
 
 Computer Vision focus areas
 * Fine-grained image classification
@@ -23,7 +23,7 @@ Full-stack Development
 * Commodity trading and pricing algorithms for oil and natural gas companies.
 * UI for tracking and distribution for b2b companies.
 
-### Open source contributions not involving SAP Labs available at https://github.com/tommarvoloriddle.
+### Open source contributions not involving SAP Labs available at [https://github.com/tommarvoloriddle.](https://github.com/tommarvoloriddle)
 
 Technozion 
 * [Tz-2019](https://play.google.com/store/apps/details?id=org.technozion.technozion19)
