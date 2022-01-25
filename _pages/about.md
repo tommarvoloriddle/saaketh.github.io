@@ -26,14 +26,14 @@ Full-stack Development
 ### Open source contributions not involving SAP Labs available at [https://github.com/tommarvoloriddle.](https://github.com/tommarvoloriddle)
 
 Technozion 
-* [Tz-2019](https://play.google.com/store/apps/details?id=org.technozion.technozion19)
+* [TZ-2019](https://play.google.com/store/apps/details?id=org.technozion.technozion19)
 * [TZ-2018](https://play.google.com/store/apps/details?id=org.technozion.technozion18)
 
 NPM
 * [React-native-forms](https://www.npmjs.com/package/react-native-form-view)
 
 Letsendore
-* [React-natove-app](https://www.letsendorse.com/)
+* [React-native-app](https://www.letsendorse.com/)
 
 <p align="center">
 <a href="https://github.com/tommarvoloriddle">
