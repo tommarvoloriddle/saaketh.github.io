@@ -12,6 +12,6 @@ collection: portfolio
 ![](/images/sponge_bob.png)
 
 ![](/images/tom_output.png) 
-![](/images/pikachu_output.jpeg) 
+
 
 
