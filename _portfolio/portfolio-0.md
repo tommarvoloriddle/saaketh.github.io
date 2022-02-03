@@ -1,6 +1,6 @@
 ---
 title: "MEME text generator"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Some of the generated memes <br/><img src='/images/tom_output.png'> <br/><img src='/images/sponge_bob.png'> <br/><img src='/images/pikachu_output.png'>"
 collection: portfolio
 ---
 
