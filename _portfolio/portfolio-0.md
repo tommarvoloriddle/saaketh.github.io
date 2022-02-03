@@ -1,7 +1,7 @@
 ---
 title: "MEME text generator"
 excerpt: "This project is still in progress. Currently implemented meme text generator using CNN. I am trying out GANs and LSTMs for better results.
-Note: Images are not generated."
+Note: Images are not generated. <br/><img src='../images/tom_output.png'/>"
 collection: portfolio
 ---
 
