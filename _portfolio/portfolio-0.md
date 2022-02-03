@@ -10,9 +10,9 @@ collection: portfolio
 
 ### Some of the generated memes 
 
-![](/blob/master/images/sponge_bob.png)
+![](/saaketh.github.io/blob/master/images/sponge_bob.png)
 
-![](/blob/master/images/tom_output.png) 
+![](/saaketh.github.io/blob/master/images/tom_output.png) 
 
 
 
