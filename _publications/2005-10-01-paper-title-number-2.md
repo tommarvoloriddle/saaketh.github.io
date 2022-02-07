@@ -8,5 +8,3 @@ venue: '(Pre-print)'
 paperurl: 'http://tommarvoloriddle.github.io/saaketh.github.io/files/Coarse-fine-BilinearCNN.pdf'
 citation: 'Saaketh Koundinya, You. (2021). &quot;Paper Title Number 2.&quot;'
 ---
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
