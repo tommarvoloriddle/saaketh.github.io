@@ -1,5 +1,5 @@
 ---
-title: "Coarse to Fine Bilinear Convolutional Neural Networks for Fine-grained Image Recognition"
+title: "Smart Bot for Handwritten Digit String Recognition"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The CNN model used in this paper determines the digit in the image provided real-time. The system plays the recorded audio and displays the output
