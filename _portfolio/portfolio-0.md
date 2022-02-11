@@ -10,7 +10,7 @@ collection: portfolio
 
 ### Some of the generated memes 
 
-![](https://imgur.com/PauO11T)
+![](saaketh.github.io/images/sponge_bob.png)
 
 ![](https://imgur.com/KK4p9QM) 
 
