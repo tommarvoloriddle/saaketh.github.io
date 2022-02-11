@@ -12,7 +12,7 @@ collection: portfolio
 
 ![Example1](/saaketh.github.io/images/tom_output.png)
 
-![Example2](https://github.com/tommarvoloriddle/saaketh.github.io/blob/master/images/sponge_bob.png) 
+![Example2](/saaketh.github.io/images/sponge_bob.png) 
 
 
 
