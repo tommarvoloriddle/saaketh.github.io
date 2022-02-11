@@ -10,7 +10,7 @@ collection: portfolio
 
 ### Some of the generated memes 
 
-![Example1](https://github.com/tommarvoloriddle/saaketh.github.io/blob/master/images/tom_output.png)
+![Example1](/saaketh.github.io/images/tom_output.png)
 
 ![Example2](https://github.com/tommarvoloriddle/saaketh.github.io/blob/master/images/sponge_bob.png) 
 
