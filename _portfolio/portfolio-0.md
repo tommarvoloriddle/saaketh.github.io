@@ -10,9 +10,9 @@ collection: portfolio
 
 ### Some of the generated memes 
 
-![](saaketh.github.io/images/sponge_bob.png)
+![Example1](https://imgur.com/PauO11T)
 
-![](https://imgur.com/KK4p9QM) 
+![Example2](https://imgur.com/KK4p9QM) 
 
 
 
