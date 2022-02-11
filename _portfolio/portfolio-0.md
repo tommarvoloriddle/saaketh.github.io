@@ -10,9 +10,9 @@ collection: portfolio
 
 ### Some of the generated memes 
 
-![Example1](https://imgur.com/PauO11T)
+![Example1](https://github.com/tommarvoloriddle/saaketh.github.io/blob/master/images/tom_output.png)
 
-![Example2](https://imgur.com/KK4p9QM) 
+![Example2](https://github.com/tommarvoloriddle/saaketh.github.io/blob/master/images/sponge_bob.png) 
 
 
 
