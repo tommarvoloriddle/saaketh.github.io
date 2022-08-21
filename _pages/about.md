@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Saaketh Koundinya and I am passionate about computer vision, deep learning, competetive programming and problem solving. I am currently working as a part-time researcher in Computer Vision and also as a full-time full-stack developer at SAP Labs, India. 
+My name is Saaketh Koundinya and I am passionate about computer vision, deep learning, competetive programming and problem solving. I am currently pursuing Masters in Computer Engineering at [New York University](https://www.nyu.edu). I am working on computer vision research under Professor [Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) at the [Video Lab](https://wp.nyu.edu/videolab/). I have worked previously as a part-time researcher in Computer Vision and also as a full-time full-stack developer at SAP Labs, India. 
 
 ### Most of my work with SAP Labs is available at [https://github.wdf.sap.corp/i516344.](https://github.wdf.sap.corp/i516344)
 
